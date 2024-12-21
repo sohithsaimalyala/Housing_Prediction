@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+nest_asyncio
+joblib  # Optional, if you're using an ML model
